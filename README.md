@@ -1,4 +1,4 @@
-# 🤖 ORB DASHER ⚡
+# ORB DASHER ⚡
 
 <div align="center">
 
